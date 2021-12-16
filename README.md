@@ -1,0 +1,1 @@
+# synergyway_test_task_python
